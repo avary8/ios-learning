@@ -8,7 +8,7 @@
 <br />
 
 ## Overview
-- 2025 CS193p: [35 videos](https://cs193p.stanford.edu)
+- 2025 CS193p: [16 videos](https://cs193p.stanford.edu)
 <br />
   
 ## 2025 CS193P
